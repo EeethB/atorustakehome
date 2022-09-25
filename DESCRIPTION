@@ -1,10 +1,10 @@
 Package: atorustakehome
 Version: 0.0.0.9000
-Title: What the Package Does (One Line, Title Case)
-Description: What the package does (one paragraph).
-Authors@R: person("Ethan", "Brockmann",
-    email = "ethanbrockmann@gmail.com", role = c("aut", "cre", "cph")
-License: GPL-3
+Title: Dependency-free imitation of gMCP::generateWeights
+Description: Take-home assignment for an Atorus client. The task is to build an efficient and low-dependency R package implementing algorithm 1 here: https://onlinelibrary.wiley.com/doi/pdf/10.1002/bimj.201000239
+Authors@R: 
+    person("Ethan", "Brockmann", , "ethanbrockmann@gmail.com", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
